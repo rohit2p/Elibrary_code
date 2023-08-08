@@ -14,7 +14,7 @@ This is a frontend project for an Elibrary website, created using HTML and CSS. 
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rohit_2p/Elibrary_code.git`
+1. Clone the repository: `git clone https://github.com/rohit2p/Elibrary_code.git`
 
 ## Usage
 
